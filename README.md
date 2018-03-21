@@ -76,3 +76,20 @@ The reason I chose to go to RMIT is because it is one of the leading IT universi
 
 I expect to learn programming/coding in Java so I can apply those concepts outside of university for future jobs. I also would like to learn how to satisfy clients through adequate designs that meet their needs. 
 Apart from what we learn in the course itself, I would also like to learn how to be able to interact with other peers through group work which will help future job prospects. In the IT industry, high social skills are valued because most of the work done is through group collaborations. 
+
+# Ideal Job
+
+### My Ideal Working Environment:
+-	Flexible working hours
+-	Work from close to home
+-	Decent to above average pay
+
+### What I look to get out of it:
+-	Broader programming techniques/knowledge (key skills)
+-	Good social connection with colleagues
+
+### Priorities for Clients:
+-	Customer/Client satisfaction
+-	The ability to fulfil their needs
+
+[Job Link](https://au.indeed.com/job/elearning-l1-support-e710a9b608c3cff1)
