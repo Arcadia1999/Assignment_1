@@ -101,3 +101,25 @@ This job is ideal because it offers a safe and productive work environment where
 The job is looking for employees that have: a high understanding of Microsoft based technologies, troubleshooting of hardware and software on user devices, ability to train and support a broad range of users and creation and maintenance of user accounts on Active Directory. These skills that are required are the skills I hope to have learnt in the course to be able to help me be employed and to be able to make a difference to the users of the App and Web to help make schooling easier.
 
 They are also looking for employees with high energy and positive attitudes which I can provide as I am passionate about the job and being able to work with new colleagues. I am also looking to be able to work in schools especially with teachers and students to teach them about the use of Compass and how it can improve their teaching capabilities. 
+
+**Insert Extra Bit here, FRIENDLY REMINDER**
+
+# Personal Profile
+
+[Myers-Briggs Test:](https://www.16personalities.com/free-personality-test)
+ 
+[Online learning style test:](http://vark-learn.com/the-vark-questionnaire/)
+ 
+[Big Five Personality Test:](https://www.truity.com/test/big-five-personality-test)
+ 
+ 
+ 
+ 
+ 
+What do the results of these tests mean for you?
+There are similarities between the Myers-Briggs test and the Big Five Personality test with the extraversion category (sociable and outgoing) being 79% and 67% respectively. This suggests that I am willing to interact and meddle with my peers and colleagues and be flexible. My high levels of agreeableness shows that I am willing to cooperate with my peers rather than assert that my ideas are right and final. All these results portray the fact that I am ready to work with others.
+
+How do you think these results influence your behaviour in a team?
+Results show that although I am open and agreeable, I am an observant type therefore instead of contributing to the team at first, I am more likely to observe and listen to the others. I am also willing to speak to the team of any possible flaws in the program so that solutions can be found to fix the flaw. As well as being a visual learner, I may choose to decide to draw out the plans for the project using a mind-map to make things clearer for myself and the team.
+How should you take this into account when forming a team?
+I hope to be able to work in a team with similar qualities like myself or have different learning techniques so we can learn from one another and be productive together. On the other hand, I am also able to work with a team where someone takes charge and gives us tasks to do as working under instructions can be more efficient than working without knowing the goal.
