@@ -46,12 +46,33 @@ Student Number: s3721471
 
 Email address: s3721471@student.rmit.edu.au
 
-## Background Information:
+### Background Information:
 -	Date of birth: 11/10/1999
 -	Nationality: Vietnamese
 -	Citizenship: Australian
 -	Education: Kindergarten (2004), Sunshine East (2005-2008), Sunshine Harvester (2009-2011), Maribyrnong Secondary (2012-2013), Suzanne Cory High School (2014-2017)
 -	Languages: English and Vietnamese
-## Fun facts:
+
+### Fun facts:
 -	For sports I play badminton
 -	Music instrument I play piano
+
+# Interest in IT
+
+## What is your interest in IT? When did your interest in IT start? Was there a particular event or person that sparked your interest? Outline your IT experience.
+
+The interest in IT started when I was young and started playing around with computers and playing games on laptops and PCs. From there as a I grew older my curiosity grew with me and I wanted to explore more in the IT world. My interest in IT was also a result of my father working in the IT industry as an electrical engineer. When ever he would be working on a task at home I would ask him about his work however as I grew up I realised my path in IT was more about programming and developing. 
+
+### Previous IT experience:
+
+-	Programming in Visual Studio and Java
+-	Fixing hardware/software on Desktops/Laptops (ie. Replacing HHD, installing Windows, Building PCs)
+
+### Why did you choose to come to RMIT?
+
+The reason I chose to go to RMIT is because it is one of the leading IT universities in the world and highly convenient to travel to from where I live. Also RMIT has been the university I had always considered ever since I was younger, Melbourne University offers limited IT courses and Monash University is extremely far to travel. 
+
+### What do you expect to learn during your studies?
+
+I expect to learn programming/coding in Java so I can apply those concepts outside of university for future jobs. I also would like to learn how to satisfy clients through adequate designs that meet their needs. 
+Apart from what we learn in the course itself, I would also like to learn how to be able to interact with other peers through group work which will help future job prospects. In the IT industry, high social skills are valued because most of the work done is through group collaborations. 
