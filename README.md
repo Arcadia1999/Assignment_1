@@ -37,3 +37,21 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 https://arcadia1999.github.io/testing/.
+
+# Personal Information
+
+Name: Dan Nguyen
+
+Student Number: s3721471
+
+Email address: s3721471@student.rmit.edu.au
+
+## Background Information:
+-	Date of birth: 11/10/1999
+-	Nationality: Vietnamese
+-	Citizenship: Australian
+-	Education: Kindergarten (2004), Sunshine East (2005-2008), Sunshine Harvester (2009-2011), Maribyrnong Secondary (2012-2013), Suzanne Cory High School (2014-2017)
+-	Languages: English and Vietnamese
+## Fun facts:
+-	For sports I play badminton
+-	Music instrument I play piano
