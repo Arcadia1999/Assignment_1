@@ -107,6 +107,8 @@ They are also looking for employees with high energy and positive attitudes whic
 # Personal Profile
 
 Myers-Briggs Test: [https://www.16personalities.com/free-personality-test](https://www.16personalities.com/free-personality-test)
+
+![16 Personalities](https://raw.githubusercontent.com/Arcadia1999/Assignment_1/master/Personality.png)
  
 Online learning style test: [http://vark-learn.com/the-vark-questionnaire/](http://vark-learn.com/the-vark-questionnaire/)
  
