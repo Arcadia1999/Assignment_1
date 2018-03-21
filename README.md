@@ -92,4 +92,12 @@ Apart from what we learn in the course itself, I would also like to learn how to
 -	Customer/Client satisfaction
 -	The ability to fulfil their needs
 
-[Job Link](https://au.indeed.com/job/elearning-l1-support-e710a9b608c3cff1)
+[Ideal Job Link](https://au.indeed.com/job/elearning-l1-support-e710a9b608c3cff1)
+
+This position is looking for an employee who can provide support and feedback for clients. In this case, they require employees with high understanding of Microsoft based systems and being able to problem solve issues on the client’s side. Apart from skill requirements, they are looking for individuals who bring a positive attitude and a can-do attitude. 
+
+This job is ideal because it offers a safe and productive work environment where it aims to improve the quality of life for teachers and students at schools through an app and website called “Compass”. Their key focus is client satisfaction which is a priority of mine when it comes to web or app development. 
+
+The job is looking for employees that have: a high understanding of Microsoft based technologies, troubleshooting of hardware and software on user devices, ability to train and support a broad range of users and creation and maintenance of user accounts on Active Directory. These skills that are required are the skills I hope to have learnt in the course to be able to help me be employed and to be able to make a difference to the users of the App and Web to help make schooling easier.
+
+They are also looking for employees with high energy and positive attitudes which I can provide as I am passionate about the job and being able to work with new colleagues. I am also looking to be able to work in schools especially with teachers and students to teach them about the use of Compass and how it can improve their teaching capabilities. 
